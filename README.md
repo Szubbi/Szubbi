@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Szubbi
+- 👀 I’m interested in Geospatial Science, imagery analysis and machine learning
+- 🌱 I’m currently learning TensorFlow
